@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libMath.a CMakeFiles/Math.dir/mathCalculate.cpp.obj
+C:\MinGW\bin\ranlib.exe libMath.a

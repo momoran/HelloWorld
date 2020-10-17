@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Administrator/Desktop/code/LearnProcess/HelloWorld/main.cpp
+iostream
+-
+mathCalculate.h
+C:/Users/Administrator/Desktop/code/LearnProcess/HelloWorld/mathCalculate.h
+
+include/mathCalculate.h
+

@@ -1,0 +1,6 @@
+C:/Users/Administrator/Desktop/code/LearnProcess/HelloWorld/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/code/LearnProcess/HelloWorld/CMakeFiles/main.dir
+C:/Users/Administrator/Desktop/code/LearnProcess/HelloWorld/CMakeFiles/rebuild_cache.dir
+C:/Users/Administrator/Desktop/code/LearnProcess/HelloWorld/source/CMakeFiles/Math.dir
+C:/Users/Administrator/Desktop/code/LearnProcess/HelloWorld/source/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/code/LearnProcess/HelloWorld/source/CMakeFiles/rebuild_cache.dir
