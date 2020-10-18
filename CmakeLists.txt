@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.18)
-PROJECT(main)
+PROJECT(test)
 INCLUDE_DIRECTORIES(include)
 add_subdirectory(source)
 
