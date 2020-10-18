@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Administrator/Desktop/code/LearnProcess/HelloWorld
+# Install script for directory: E:/workLeraning/code/LearnProcess/HelloWorld
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Administrator/Desktop/code/LearnProcess/HelloWorld/source/cmake_install.cmake")
+  include("E:/workLeraning/code/LearnProcess/HelloWorld/source/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Administrator/Desktop/code/LearnProcess/HelloWorld/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/workLeraning/code/LearnProcess/HelloWorld/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

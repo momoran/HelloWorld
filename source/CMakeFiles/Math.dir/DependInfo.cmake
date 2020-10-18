@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Administrator/Desktop/code/LearnProcess/HelloWorld/source/mathCalculate.cpp" "C:/Users/Administrator/Desktop/code/LearnProcess/HelloWorld/source/CMakeFiles/Math.dir/mathCalculate.cpp.obj"
+  "E:/workLeraning/code/LearnProcess/HelloWorld/source/mathCalculate.cpp" "E:/workLeraning/code/LearnProcess/HelloWorld/source/CMakeFiles/Math.dir/mathCalculate.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

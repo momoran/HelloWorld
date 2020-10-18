@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Administrator/Desktop/code/LearnProcess/HelloWorld/main.cpp
+E:/workLeraning/code/LearnProcess/HelloWorld/main.cpp
 iostream
 -
 mathCalculate.h
-C:/Users/Administrator/Desktop/code/LearnProcess/HelloWorld/mathCalculate.h
+E:/workLeraning/code/LearnProcess/HelloWorld/mathCalculate.h
 
 include/mathCalculate.h
 

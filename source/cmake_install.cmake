@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Administrator/Desktop/code/LearnProcess/HelloWorld/source
+# Install script for directory: E:/workLeraning/code/LearnProcess/HelloWorld/source
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

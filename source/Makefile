@@ -66,10 +66,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Administrator\Desktop\code\LearnProcess\HelloWorld
+CMAKE_SOURCE_DIR = E:\workLeraning\code\LearnProcess\HelloWorld
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Administrator\Desktop\code\LearnProcess\HelloWorld
+CMAKE_BINARY_DIR = E:\workLeraning\code\LearnProcess\HelloWorld
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -98,14 +98,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /d C:\Users\Administrator\Desktop\code\LearnProcess\HelloWorld && $(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Administrator\Desktop\code\LearnProcess\HelloWorld\CMakeFiles C:\Users\Administrator\Desktop\code\LearnProcess\HelloWorld\source\\CMakeFiles\progress.marks
-	cd /d C:\Users\Administrator\Desktop\code\LearnProcess\HelloWorld && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 source/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Administrator\Desktop\code\LearnProcess\HelloWorld\CMakeFiles 0
+	cd /d E:\workLeraning\code\LearnProcess\HelloWorld && $(CMAKE_COMMAND) -E cmake_progress_start E:\workLeraning\code\LearnProcess\HelloWorld\CMakeFiles E:\workLeraning\code\LearnProcess\HelloWorld\source\\CMakeFiles\progress.marks
+	cd /d E:\workLeraning\code\LearnProcess\HelloWorld && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 source/all
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\workLeraning\code\LearnProcess\HelloWorld\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /d C:\Users\Administrator\Desktop\code\LearnProcess\HelloWorld && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 source/clean
+	cd /d E:\workLeraning\code\LearnProcess\HelloWorld && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 source/clean
 .PHONY : clean
 
 # The main clean target
@@ -115,22 +115,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /d C:\Users\Administrator\Desktop\code\LearnProcess\HelloWorld && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 source/preinstall
+	cd /d E:\workLeraning\code\LearnProcess\HelloWorld && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 source/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /d C:\Users\Administrator\Desktop\code\LearnProcess\HelloWorld && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 source/preinstall
+	cd /d E:\workLeraning\code\LearnProcess\HelloWorld && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 source/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /d C:\Users\Administrator\Desktop\code\LearnProcess\HelloWorld && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
+	cd /d E:\workLeraning\code\LearnProcess\HelloWorld && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 source/CMakeFiles/Math.dir/rule:
-	cd /d C:\Users\Administrator\Desktop\code\LearnProcess\HelloWorld && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 source/CMakeFiles/Math.dir/rule
+	cd /d E:\workLeraning\code\LearnProcess\HelloWorld && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 source/CMakeFiles/Math.dir/rule
 .PHONY : source/CMakeFiles/Math.dir/rule
 
 # Convenience name for target.
@@ -140,7 +140,7 @@ Math: source/CMakeFiles/Math.dir/rule
 
 # fast build rule for target.
 Math/fast:
-	cd /d C:\Users\Administrator\Desktop\code\LearnProcess\HelloWorld && $(MAKE) $(MAKESILENT) -f source\CMakeFiles\Math.dir\build.make source/CMakeFiles/Math.dir/build
+	cd /d E:\workLeraning\code\LearnProcess\HelloWorld && $(MAKE) $(MAKESILENT) -f source\CMakeFiles\Math.dir\build.make source/CMakeFiles/Math.dir/build
 .PHONY : Math/fast
 
 mathCalculate.obj: mathCalculate.cpp.obj
@@ -149,7 +149,7 @@ mathCalculate.obj: mathCalculate.cpp.obj
 
 # target to build an object file
 mathCalculate.cpp.obj:
-	cd /d C:\Users\Administrator\Desktop\code\LearnProcess\HelloWorld && $(MAKE) $(MAKESILENT) -f source\CMakeFiles\Math.dir\build.make source/CMakeFiles/Math.dir/mathCalculate.cpp.obj
+	cd /d E:\workLeraning\code\LearnProcess\HelloWorld && $(MAKE) $(MAKESILENT) -f source\CMakeFiles\Math.dir\build.make source/CMakeFiles/Math.dir/mathCalculate.cpp.obj
 .PHONY : mathCalculate.cpp.obj
 
 mathCalculate.i: mathCalculate.cpp.i
@@ -158,7 +158,7 @@ mathCalculate.i: mathCalculate.cpp.i
 
 # target to preprocess a source file
 mathCalculate.cpp.i:
-	cd /d C:\Users\Administrator\Desktop\code\LearnProcess\HelloWorld && $(MAKE) $(MAKESILENT) -f source\CMakeFiles\Math.dir\build.make source/CMakeFiles/Math.dir/mathCalculate.cpp.i
+	cd /d E:\workLeraning\code\LearnProcess\HelloWorld && $(MAKE) $(MAKESILENT) -f source\CMakeFiles\Math.dir\build.make source/CMakeFiles/Math.dir/mathCalculate.cpp.i
 .PHONY : mathCalculate.cpp.i
 
 mathCalculate.s: mathCalculate.cpp.s
@@ -167,7 +167,7 @@ mathCalculate.s: mathCalculate.cpp.s
 
 # target to generate assembly for a file
 mathCalculate.cpp.s:
-	cd /d C:\Users\Administrator\Desktop\code\LearnProcess\HelloWorld && $(MAKE) $(MAKESILENT) -f source\CMakeFiles\Math.dir\build.make source/CMakeFiles/Math.dir/mathCalculate.cpp.s
+	cd /d E:\workLeraning\code\LearnProcess\HelloWorld && $(MAKE) $(MAKESILENT) -f source\CMakeFiles\Math.dir\build.make source/CMakeFiles/Math.dir/mathCalculate.cpp.s
 .PHONY : mathCalculate.cpp.s
 
 # Help Target
@@ -193,6 +193,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /d C:\Users\Administrator\Desktop\code\LearnProcess\HelloWorld && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
+	cd /d E:\workLeraning\code\LearnProcess\HelloWorld && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
 .PHONY : cmake_check_build_system
 
