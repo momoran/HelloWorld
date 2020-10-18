@@ -20,10 +20,6 @@ CMAKE_ADDR2LINE:FILEPATH=C:/MinGW/bin/addr2line.exe
 //Path to a program.
 CMAKE_AR:FILEPATH=C:/MinGW/bin/ar.exe
 
-//For backwards compatibility, what version of CMake commands and
-// syntax should this version of CMake try to support.
-CMAKE_BACKWARDS_COMPATIBILITY:STRING=2.4
-
 //Choose the type of build, options are: None Debug Release RelWithDebInfo
 // MinSizeRel ...
 CMAKE_BUILD_TYPE:STRING=
@@ -116,8 +112,8 @@ CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/main
 //Path to a program.
 CMAKE_LINKER:FILEPATH=C:/MinGW/bin/ld.exe
 
-//make program
-CMAKE_MAKE_PROGRAM:FILEPATH=D:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe
+//Path to a program.
+CMAKE_MAKE_PROGRAM:FILEPATH=C:/MinGW/bin/mingw32-make.exe
 
 //Flags used by the linker during the creation of modules during
 // all build types.
@@ -236,12 +232,6 @@ CMAKE_STRIP:FILEPATH=C:/MinGW/bin/strip.exe
 // during the make.  This is useful for debugging only. With Visual
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
-
-//Single output directory for building all executables.
-EXECUTABLE_OUTPUT_PATH:PATH=
-
-//Single output directory for building all libraries.
-LIBRARY_OUTPUT_PATH:PATH=
 
 //Value Computed by CMake
 main_BINARY_DIR:STATIC=C:/Users/Administrator/Desktop/code/LearnProcess/HelloWorld
