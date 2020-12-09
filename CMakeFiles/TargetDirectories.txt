@@ -1,6 +1,6 @@
-E:/workLeraning/code/LearnProcess/HelloWorld/CMakeFiles/edit_cache.dir
-E:/workLeraning/code/LearnProcess/HelloWorld/CMakeFiles/main.dir
-E:/workLeraning/code/LearnProcess/HelloWorld/CMakeFiles/rebuild_cache.dir
-E:/workLeraning/code/LearnProcess/HelloWorld/source/CMakeFiles/Math.dir
-E:/workLeraning/code/LearnProcess/HelloWorld/source/CMakeFiles/edit_cache.dir
-E:/workLeraning/code/LearnProcess/HelloWorld/source/CMakeFiles/rebuild_cache.dir
+D:/Documents/programming/codeSet/HelloWorld/CMakeFiles/edit_cache.dir
+D:/Documents/programming/codeSet/HelloWorld/CMakeFiles/main.dir
+D:/Documents/programming/codeSet/HelloWorld/CMakeFiles/rebuild_cache.dir
+D:/Documents/programming/codeSet/HelloWorld/source/CMakeFiles/Math.dir
+D:/Documents/programming/codeSet/HelloWorld/source/CMakeFiles/edit_cache.dir
+D:/Documents/programming/codeSet/HelloWorld/source/CMakeFiles/rebuild_cache.dir

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "E:/workLeraning/code/LearnProcess/HelloWorld/main.cpp" "E:/workLeraning/code/LearnProcess/HelloWorld/CMakeFiles/main.dir/main.cpp.obj"
+  "D:/Documents/programming/codeSet/HelloWorld/main.cpp" "D:/Documents/programming/codeSet/HelloWorld/CMakeFiles/main.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -15,7 +15,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "E:/workLeraning/code/LearnProcess/HelloWorld/source/CMakeFiles/Math.dir/DependInfo.cmake"
+  "D:/Documents/programming/codeSet/HelloWorld/source/CMakeFiles/Math.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.
